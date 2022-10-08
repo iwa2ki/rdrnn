@@ -4,8 +4,7 @@
 「..\文字列操作.rdr」を参照する。
 「Produire.File.dll」を利用する。
 「Produire.Network.dll」を利用する。
-アイリスデータは，「C:\Users\nipoc\OneDrive\Documents\プロデル\dat\iris.data」から読み込んだものの行区切りの1番目から100個切り出したもの。
-’アイリスデータは，HTTPで「https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data」を取得したものの行区切りの1番目から100個切り出したもの。
+アイリスデータは，HTTPで「https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data」を取得したものの行区切りの1番目から100個切り出したもの。
 アイリスデータを適当に並び替える。
 
 正解という行列（80，1）を作る。
